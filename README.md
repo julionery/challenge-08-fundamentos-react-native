@@ -44,7 +44,7 @@ $ yarn json-server server.json -p 3333
 $ git clone https://github.com/julionery/challenge-08-fundamentos-react-native.git
 
 # Vá para a pasta do back-end
-$ cd conceitos-nodejs-react-reactnative/challenge-08-fundamentos-react-native/
+$ cd challenge-08-fundamentos-react-native/
 
 # Instale as dependências
 $ yarn
